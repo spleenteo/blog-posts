@@ -1,5 +1,8 @@
 {
-  "accentColor": "#f09a05",
+  "accentColor": "#b300ad",
   "cssTheme": "Solarized",
-  "translucency": false
+  "translucency": false,
+  "theme": "moonstone",
+  "baseFontSize": 16,
+  "baseFontSizeAction": true
 }

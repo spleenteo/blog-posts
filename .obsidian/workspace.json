@@ -4,31 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "feffa2747b1c5a54",
+        "id": "5d4c4efa3f51d028",
         "type": "tabs",
         "children": [
           {
-            "id": "f1a83362c12c0787",
+            "id": "3e4dce32c582c8d7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Spleenteo Blog/Spazio 1999  tributo a Gerry Anderson.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "aFile": ".obsidian/appearance.json",
+                "bFile": ".obsidian/appearance.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Spazio 1999  tributo a Gerry Anderson"
+              "icon": "diff",
+              "title": "Diff: appearance.json"
             }
           }
         ]
@@ -152,13 +142,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spleenteo Blog/Spazio 1999  tributo a Gerry Anderson.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Spazio 1999  tributo a Gerry Anderson"
+              "title": "Outline"
             }
           },
           {
@@ -203,11 +192,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f1a83362c12c0787",
+  "active": "3e4dce32c582c8d7",
   "lastOpenFiles": [
-    "Spleenteo Blog/Silent Rehearsal è possibile.md",
     "Spleenteo Blog/Spazio 1999  tributo a Gerry Anderson.md",
     "Spleenteo Blog/Jon and Vangelis The friends of Mr Cairo.md",
+    "Spleenteo Blog/Silent Rehearsal è possibile.md",
     "Spleenteo Blog/Garibaldi estremo coerente.md",
     "Spleenteo Blog/Ode a Sting e al drumming genius Vinnie Colaiuta.md",
     "Music Studio/Mastering Streaming in Logic.md",

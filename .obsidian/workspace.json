@@ -1,0 +1,266 @@
+{
+  "main": {
+    "id": "bcb7d3b836b3114c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ce461fc707ee4fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05e7b9141ebae461",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diario/2025-05-16.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-05-16"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "798972b9e348f528",
+    "type": "split",
+    "children": [
+      {
+        "id": "73217dc8b9441273",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9953f45a635a966",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5badc22b4bab43ee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "753d86ffddad6657",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 390.5
+  },
+  "right": {
+    "id": "20cb3adb2fcd771c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fad3111317122f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4b543946e3d4a32",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "9283c1397a8514bd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "1c421b6d856c12a8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8007929c04d6774d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Diario/2025-05-16.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-05-16"
+            }
+          },
+          {
+            "id": "7f2ab67791a1a97e",
+            "type": "leaf",
+            "state": {
+              "type": "RSS_FEED",
+              "state": {},
+              "icon": "rss",
+              "title": "RSS Feeds"
+            }
+          },
+          {
+            "id": "20ff69f16df07517",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "3883730bdad3ce47",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 605.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "e9953f45a635a966",
+  "lastOpenFiles": [
+    "Diario/2025-05-16.md",
+    "README.md",
+    "Untitled.md",
+    "DatoCMS",
+    "Spleenteo Blog/Ciao Nic ❤️.md",
+    "Diario",
+    "untitled folder",
+    "Spleenteo Blog/Garibaldi estremo coerente.md",
+    "Spleenteo Blog/Unconventional wedding.md",
+    "Spleenteo Blog/Silent Rehearsal è possibile.md",
+    "Spleenteo Blog/Ode a Sting e al drumming genius Vinnie Colaiuta.md",
+    "Spleenteo Blog/Museo di Calci esperienza inaspettata.md",
+    "Untitled 1.canvas",
+    "Music Studio/Mastering Streaming in Logic.md",
+    "Music Studio/Guida per l'esportazione e backup.md",
+    "Music Studio/Condividere audio con Zoom.md",
+    "Music Studio/assets/Pasted image 20250516221644.png",
+    "Pasted image 20250516221644.png",
+    "Music Studio/Scheda Audio ID14.md",
+    "Music Studio/assets/Pasted image 20250516221120.png",
+    "Music Studio/assets/Pasted image 20250516221108.png",
+    "Music Studio/assets/Pasted image 20250516220945.png",
+    "Music Studio/assets/Pasted image 20250516220928.png",
+    "Music Studio/assets/Pasted image 20250516220918.png",
+    "Music Studio/assets/Pasted image 20250516220859.png",
+    "Music Studio/assets/Pasted image 20250516220825.png",
+    "Music Studio/assets/Pasted image 20250516220301.png",
+    "Music Studio/assets",
+    "Music Studio/untitled folder",
+    "Untitled.canvas",
+    "Music Studio",
+    "Learning Obsidian.canvas",
+    "Untitled 2.canvas",
+    "Caro Michele,.md",
+    "Benvenuto Raul!.md",
+    "44 milioni di Km di diametro e non averlo mai visto prima di oggi!.md",
+    "La storia si fa nel presente; ovvio, no.md",
+    "Primi passi nell&39;universo.md",
+    "Pensieri sui fondamenti del pensare e la radice della comunicazione.md",
+    "Spazio 1999 tributo a Gerry Anderson.md",
+    "Jon and Vangelis, The friends of Mr Cairo.md",
+    "Essere Coleman F. Sweeney.md",
+    "SpaceX SN15 primi passi verso Marte.md",
+    "Come lavare (per bene e a mano) i piatti nella casa in campagna.md",
+    "Movida Santa Croce uno stallo alla messicana.md",
+    "Si torna in acqua, riemergono i ricordi..md",
+    "Spleenteo Blog"
+  ]
+}

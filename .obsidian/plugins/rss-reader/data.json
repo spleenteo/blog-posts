@@ -334,10 +334,12 @@
           "language": "it",
           "folder": "",
           "feed": "Spleenteo.",
-          "read": false,
+          "read": true,
           "favorite": false,
-          "created": false,
-          "tags": [],
+          "created": true,
+          "tags": [
+            "musica"
+          ],
           "hash": "5ef46c769ab7ee4aebb17e70f1913d20",
           "highlights": []
         },

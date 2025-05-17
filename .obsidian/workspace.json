@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5d4c4efa3f51d028",
+        "id": "fb98644152eedd92",
         "type": "tabs",
         "children": [
           {
-            "id": "3e4dce32c582c8d7",
+            "id": "04ded0274525b545",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "canvas",
               "state": {
-                "aFile": ".obsidian/appearance.json",
-                "bFile": ".obsidian/appearance.json",
-                "aRef": ""
+                "file": "🪬 Canvas/Learning Obsidian.canvas",
+                "viewState": {
+                  "x": -93.95000000000003,
+                  "y": -242.93523437500008,
+                  "zoom": 0
+                }
               },
-              "icon": "diff",
-              "title": "Diff: appearance.json"
+              "icon": "lucide-layout-dashboard",
+              "title": "Learning Obsidian"
             }
           }
         ]
@@ -142,12 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -192,55 +196,55 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e4dce32c582c8d7",
+  "active": "e9953f45a635a966",
   "lastOpenFiles": [
-    "Spleenteo Blog/Spazio 1999  tributo a Gerry Anderson.md",
-    "Spleenteo Blog/Jon and Vangelis The friends of Mr Cairo.md",
-    "Spleenteo Blog/Silent Rehearsal è possibile.md",
-    "Spleenteo Blog/Garibaldi estremo coerente.md",
-    "Spleenteo Blog/Ode a Sting e al drumming genius Vinnie Colaiuta.md",
-    "Music Studio/Mastering Streaming in Logic.md",
-    "IT Personal/Personal Vault su git.md",
-    "Spleenteo Blog/La guerra fa schifo da qualunque angolo la si guardi.md",
-    "IT Personal",
-    "Diario/2025-05-16.md",
-    "README.md",
-    "Untitled.md",
-    "DatoCMS",
-    "Spleenteo Blog/Ciao Nic ❤️.md",
-    "Diario",
-    "untitled folder",
-    "Spleenteo Blog/Unconventional wedding.md",
-    "Spleenteo Blog/Museo di Calci esperienza inaspettata.md",
-    "Untitled 1.canvas",
-    "Music Studio/Guida per l'esportazione e backup.md",
-    "Music Studio/Condividere audio con Zoom.md",
-    "Music Studio/assets/Pasted image 20250516221644.png",
-    "Pasted image 20250516221644.png",
-    "Music Studio/Scheda Audio ID14.md",
-    "Music Studio/assets/Pasted image 20250516221120.png",
-    "Music Studio/assets/Pasted image 20250516221108.png",
-    "Music Studio/assets/Pasted image 20250516220945.png",
-    "Music Studio/assets/Pasted image 20250516220928.png",
-    "Music Studio/assets/Pasted image 20250516220918.png",
-    "Music Studio/assets/Pasted image 20250516220859.png",
-    "Music Studio/assets/Pasted image 20250516220825.png",
-    "Music Studio/assets/Pasted image 20250516220301.png",
-    "Music Studio/assets",
-    "Music Studio/untitled folder",
-    "Untitled.canvas",
-    "Music Studio",
-    "Learning Obsidian.canvas",
+    "🪬 Canvas",
     "Untitled 2.canvas",
+    "Untitled.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "🪬 Canvas/Learning Obsidian.canvas",
+    "📆 Diario/2025-05-17.md",
+    "✏️ Idee editoriali.md",
+    "README.md",
+    "🌍 Spleenteo Blog/Spazio 1999  tributo a Gerry Anderson.md",
+    "🌍 Spleenteo Blog/Jon and Vangelis The friends of Mr Cairo.md",
+    "🌍 Spleenteo Blog/Silent Rehearsal è possibile.md",
+    "🌍 Spleenteo Blog/Garibaldi estremo coerente.md",
+    "🌍 Spleenteo Blog/Ode a Sting e al drumming genius Vinnie Colaiuta.md",
+    "🥁 Music Studio/Mastering Streaming in Logic.md",
+    "⚙️ IT Personal/Personal Vault su git.md",
+    "🌍 Spleenteo Blog/La guerra fa schifo da qualunque angolo la si guardi.md",
+    "⚙️ IT Personal",
+    "📆 Diario/2025-05-16.md",
+    "🧡 DatoCMS",
+    "🌍 Spleenteo Blog/Ciao Nic ❤️.md",
+    "📆 Diario",
+    "untitled folder",
+    "🌍 Spleenteo Blog/Unconventional wedding.md",
+    "🌍 Spleenteo Blog/Museo di Calci esperienza inaspettata.md",
+    "🥁 Music Studio/Guida per l'esportazione e backup.md",
+    "🥁 Music Studio/Condividere audio con Zoom.md",
+    "🥁 Music Studio/assets/Pasted image 20250516221644.png",
+    "Pasted image 20250516221644.png",
+    "🥁 Music Studio/Scheda Audio ID14.md",
+    "🥁 Music Studio/assets/Pasted image 20250516221120.png",
+    "🥁 Music Studio/assets/Pasted image 20250516221108.png",
+    "🥁 Music Studio/assets/Pasted image 20250516220945.png",
+    "🥁 Music Studio/assets/Pasted image 20250516220928.png",
+    "🥁 Music Studio/assets/Pasted image 20250516220918.png",
+    "🥁 Music Studio/assets/Pasted image 20250516220859.png",
+    "🥁 Music Studio/assets/Pasted image 20250516220825.png",
+    "🥁 Music Studio/assets/Pasted image 20250516220301.png",
+    "🥁 Music Studio/assets",
+    "Music Studio/untitled folder",
+    "🥁 Music Studio",
     "Caro Michele,.md",
     "Benvenuto Raul!.md",
     "44 milioni di Km di diametro e non averlo mai visto prima di oggi!.md",
     "La storia si fa nel presente; ovvio, no.md",
     "Primi passi nell&39;universo.md",
     "Pensieri sui fondamenti del pensare e la radice della comunicazione.md",
-    "Spazio 1999 tributo a Gerry Anderson.md",
-    "Jon and Vangelis, The friends of Mr Cairo.md",
-    "Essere Coleman F. Sweeney.md",
-    "Spleenteo Blog"
+    "🌍 Spleenteo Blog"
   ]
 }

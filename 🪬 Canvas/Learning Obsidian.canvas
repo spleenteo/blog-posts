@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"5cd6f6e0c163c075","type":"file","file":"📆 Diario/2025-05-16.md","x":-540,"y":-340,"width":400,"height":400},
+		{"id":"ae01507c4ee0d47f","type":"text","text":"Mi piacciono le note giornaliere, ma vorrei metterle tutte dentro una folder separata","x":60,"y":-340,"width":320,"height":120,"color":"1"},
+		{"id":"93643f8559b0593d","x":-80,"y":-60,"width":339,"height":143,"type":"file","file":"✏️ Idee editoriali.md"},
+		{"id":"3be4c7b258a956ba","type":"text","text":"Sembra comodo poter avere un kanban per buttare giù le idee dei post","x":-80,"y":100,"width":250,"height":60,"color":"2"},
+		{"id":"18896c07d3214137","type":"text","text":"GIT è configurato per syncare tutti i contenuti su un repo privato. Cool","x":-440,"y":-520,"width":250,"height":100,"color":"2"},
+		{"id":"fc8c7d17ed7adcbb","x":112,"y":-179,"width":250,"height":60,"type":"text","text":"Si, è possibile e l'ho impostato su una folder chiamata \"Diario\""},
+		{"id":"b6ae9a250a59921c","x":-80,"y":-580,"width":250,"height":60,"type":"text","text":"Voglio capire come poter crittografare il contenuto di una cartella specifica"},
+		{"id":"1495dd9013f88aff","type":"text","text":"# **Imparo ad usare Obsidian**","x":-280,"y":-720,"width":440,"height":60,"color":"2"}
+	],
+	"edges":[
+		{"id":"433b6dfc15f4e5dc","fromNode":"3be4c7b258a956ba","fromSide":"top","toNode":"93643f8559b0593d","toSide":"bottom"},
+		{"id":"44e199e9539c9a96","fromNode":"ae01507c4ee0d47f","fromSide":"left","toNode":"5cd6f6e0c163c075","toSide":"right"},
+		{"id":"f7083728bf047da3","fromNode":"ae01507c4ee0d47f","fromSide":"bottom","toNode":"fc8c7d17ed7adcbb","toSide":"top"},
+		{"id":"835b3af39e64fb11","fromNode":"18896c07d3214137","fromSide":"right","toNode":"b6ae9a250a59921c","toSide":"left"},
+		{"id":"a1f92df697e36c4c","fromNode":"b6ae9a250a59921c","fromSide":"bottom","toNode":"fc8c7d17ed7adcbb","toSide":"left"}
+	]
+}

@@ -1,8 +1,0 @@
-{
-	"nodes":[
-		{"id":"1495dd9013f88aff","type":"text","text":"Imparo ad usare Obsidian","x":-140,"y":-480,"width":250,"height":60,"color":"2"},
-		{"id":"5cd6f6e0c163c075","x":-540,"y":-340,"width":400,"height":400,"type":"file","file":"Diario/2025-05-16.md"},
-		{"id":"ae01507c4ee0d47f","x":60,"y":-340,"width":320,"height":120,"color":"1","type":"text","text":"Mi piacciono le note giornaliere, ma vorrei metterle tutte dentro una folder separata"}
-	],
-	"edges":[]
-}

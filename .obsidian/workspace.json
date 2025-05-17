@@ -15,7 +15,7 @@
               "state": {
                 "file": "🪬 Canvas/Learning Obsidian.canvas",
                 "viewState": {
-                  "x": -93.95000000000003,
+                  "x": -162.77000000000018,
                   "y": -242.93523437500008,
                   "zoom": 0
                 }
@@ -145,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md",
+                "file": "🪬 Canvas/Learning Obsidian.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Learning Obsidian"
             }
           },
           {
@@ -196,11 +196,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e9953f45a635a966",
+  "active": "3883730bdad3ce47",
   "lastOpenFiles": [
+    "Untitled.md",
     "🪬 Canvas",
     "Untitled 2.canvas",
-    "Untitled.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "🪬 Canvas/Learning Obsidian.canvas",

@@ -13,12 +13,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/plugins/rss-reader/data.json",
-                "bFile": ".obsidian/plugins/rss-reader/data.json",
+                "aFile": "IT Personal/Personal Vault su git.md",
+                "bFile": "IT Personal/Personal Vault su git.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: data.json"
+              "title": "Diff: Personal Vault su git"
             }
           }
         ]
@@ -142,37 +142,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diario/2025-05-16.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-05-16"
-            }
-          },
-          {
-            "id": "7f2ab67791a1a97e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spleenteo Blog/La guerra fa schifo da qualunque angolo la si guardi.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "La guerra fa schifo da qualunque angolo la si guardi"
+              "title": "Outline"
             }
           },
           {
@@ -196,11 +171,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 696.5
+    "width": 330.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,7 +194,9 @@
   },
   "active": "0a1b963a6df8aa53",
   "lastOpenFiles": [
+    "IT Personal/Personal Vault su git.md",
     "Spleenteo Blog/La guerra fa schifo da qualunque angolo la si guardi.md",
+    "IT Personal",
     "Diario/2025-05-16.md",
     "README.md",
     "Untitled.md",
@@ -264,7 +241,6 @@
     "Essere Coleman F. Sweeney.md",
     "SpaceX SN15 primi passi verso Marte.md",
     "Come lavare (per bene e a mano) i piatti nella casa in campagna.md",
-    "Movida Santa Croce uno stallo alla messicana.md",
     "Spleenteo Blog"
   ]
 }

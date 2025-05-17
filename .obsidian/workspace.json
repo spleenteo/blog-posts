@@ -4,31 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1ce461fc707ee4fe",
+        "id": "30ca0a64a7844aa2",
         "type": "tabs",
         "children": [
           {
-            "id": "05e7b9141ebae461",
+            "id": "0a1b963a6df8aa53",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Diario/2025-05-16.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "aFile": ".obsidian/plugins/rss-reader/data.json",
+                "bFile": ".obsidian/plugins/rss-reader/data.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "2025-05-16"
+              "icon": "diff",
+              "title": "Diff: data.json"
             }
           }
         ]
@@ -88,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 390.5
+    "width": 254.5
   },
   "right": {
     "id": "20cb3adb2fcd771c",
@@ -165,10 +155,24 @@
             "id": "7f2ab67791a1a97e",
             "type": "leaf",
             "state": {
-              "type": "RSS_FEED",
-              "state": {},
-              "icon": "rss",
-              "title": "RSS Feeds"
+              "type": "markdown",
+              "state": {
+                "file": "Spleenteo Blog/La guerra fa schifo da qualunque angolo la si guardi.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "La guerra fa schifo da qualunque angolo la si guardi"
             }
           },
           {
@@ -196,7 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 605.5
+    "width": 696.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,8 +217,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e9953f45a635a966",
+  "active": "0a1b963a6df8aa53",
   "lastOpenFiles": [
+    "Spleenteo Blog/La guerra fa schifo da qualunque angolo la si guardi.md",
     "Diario/2025-05-16.md",
     "README.md",
     "Untitled.md",
@@ -260,7 +265,6 @@
     "SpaceX SN15 primi passi verso Marte.md",
     "Come lavare (per bene e a mano) i piatti nella casa in campagna.md",
     "Movida Santa Croce uno stallo alla messicana.md",
-    "Si torna in acqua, riemergono i ricordi..md",
     "Spleenteo Blog"
   ]
 }

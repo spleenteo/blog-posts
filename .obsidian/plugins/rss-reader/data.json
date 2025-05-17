@@ -312,9 +312,9 @@
           "language": "it",
           "folder": "",
           "feed": "Spleenteo.",
-          "read": false,
+          "read": true,
           "favorite": false,
-          "created": false,
+          "created": true,
           "tags": [],
           "hash": "18bd96dc7b2f3d25d35face5f842b6ff",
           "highlights": []

@@ -4,21 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "30ca0a64a7844aa2",
+        "id": "64e2509e44b483be",
         "type": "tabs",
         "children": [
           {
-            "id": "0a1b963a6df8aa53",
+            "id": "fa9f4aa5f7dbfa57",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "IT Personal/Personal Vault su git.md",
-                "bFile": "IT Personal/Personal Vault su git.md",
-                "aRef": ""
+                "file": "Spleenteo Blog/Jon and Vangelis The friends of Mr Cairo.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "diff",
-              "title": "Diff: Personal Vault su git"
+              "icon": "lucide-file",
+              "title": "Jon and Vangelis The friends of Mr Cairo"
             }
           }
         ]
@@ -53,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#musica",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,8 +137,8 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
+                "sortOrder": "alphabetical",
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -142,12 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Spleenteo Blog/Jon and Vangelis The friends of Mr Cairo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Jon and Vangelis The friends of Mr Cairo"
             }
           },
           {
@@ -168,6 +179,30 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "f92d63dc2cae0ecb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spleenteo Blog/Jon and Vangelis The friends of Mr Cairo.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Jon and Vangelis The friends of Mr Cairo"
             }
           }
         ],
@@ -192,8 +227,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0a1b963a6df8aa53",
+  "active": "3883730bdad3ce47",
   "lastOpenFiles": [
+    "Spleenteo Blog/Garibaldi estremo coerente.md",
+    "Spleenteo Blog/Jon and Vangelis The friends of Mr Cairo.md",
+    "Spleenteo Blog/Ode a Sting e al drumming genius Vinnie Colaiuta.md",
+    "Spleenteo Blog/Silent Rehearsal è possibile.md",
+    "Music Studio/Mastering Streaming in Logic.md",
     "IT Personal/Personal Vault su git.md",
     "Spleenteo Blog/La guerra fa schifo da qualunque angolo la si guardi.md",
     "IT Personal",
@@ -204,13 +244,9 @@
     "Spleenteo Blog/Ciao Nic ❤️.md",
     "Diario",
     "untitled folder",
-    "Spleenteo Blog/Garibaldi estremo coerente.md",
     "Spleenteo Blog/Unconventional wedding.md",
-    "Spleenteo Blog/Silent Rehearsal è possibile.md",
-    "Spleenteo Blog/Ode a Sting e al drumming genius Vinnie Colaiuta.md",
     "Spleenteo Blog/Museo di Calci esperienza inaspettata.md",
     "Untitled 1.canvas",
-    "Music Studio/Mastering Streaming in Logic.md",
     "Music Studio/Guida per l'esportazione e backup.md",
     "Music Studio/Condividere audio con Zoom.md",
     "Music Studio/assets/Pasted image 20250516221644.png",
@@ -240,7 +276,6 @@
     "Jon and Vangelis, The friends of Mr Cairo.md",
     "Essere Coleman F. Sweeney.md",
     "SpaceX SN15 primi passi verso Marte.md",
-    "Come lavare (per bene e a mano) i piatti nella casa in campagna.md",
     "Spleenteo Blog"
   ]
 }

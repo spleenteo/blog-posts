@@ -7,6 +7,7 @@ kanban-plugin: board
 ## Idee
 
 - [ ] Da headless a Substack e Obsidian
+- [ ] Configurazione git con chiave gpg e subtree
 
 
 ## In progress

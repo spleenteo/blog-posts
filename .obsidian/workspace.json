@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "🪬 Canvas/Learning Obsidian.canvas",
+                "file": "🪬 Canvas/Backup Osx.canvas",
                 "viewState": {
-                  "x": -162.77000000000018,
-                  "y": -242.93523437500008,
-                  "zoom": 0
+                  "x": 236.93204393501514,
+                  "y": 240.73257608419476,
+                  "zoom": -0.7859566865861414
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Learning Obsidian"
+              "title": "Backup Osx"
             }
           }
         ]
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#musica",
+                "query": "tag:#Matilde",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,6 +173,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "61356acef08188e7",
+            "type": "leaf",
+            "state": {
+              "type": "RSS_FEED",
+              "state": {},
+              "icon": "rss",
+              "title": "RSS Feeds"
+            }
           }
         ],
         "currentTab": 5
@@ -198,14 +208,15 @@
   },
   "active": "3883730bdad3ce47",
   "lastOpenFiles": [
+    "🪬 Canvas/Learning Obsidian.canvas",
+    "🪬 Canvas/Backup Osx.canvas",
+    "✏️ Idee editoriali.md",
+    "Diario/2025-05-17.md",
     "Untitled.md",
     "🪬 Canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "🪬 Canvas/Learning Obsidian.canvas",
-    "📆 Diario/2025-05-17.md",
-    "✏️ Idee editoriali.md",
     "README.md",
     "🌍 Spleenteo Blog/Spazio 1999  tributo a Gerry Anderson.md",
     "🌍 Spleenteo Blog/Jon and Vangelis The friends of Mr Cairo.md",
@@ -216,10 +227,10 @@
     "⚙️ IT Personal/Personal Vault su git.md",
     "🌍 Spleenteo Blog/La guerra fa schifo da qualunque angolo la si guardi.md",
     "⚙️ IT Personal",
-    "📆 Diario/2025-05-16.md",
+    "Diario/2025-05-16.md",
     "🧡 DatoCMS",
     "🌍 Spleenteo Blog/Ciao Nic ❤️.md",
-    "📆 Diario",
+    "Diario",
     "untitled folder",
     "🌍 Spleenteo Blog/Unconventional wedding.md",
     "🌍 Spleenteo Blog/Museo di Calci esperienza inaspettata.md",

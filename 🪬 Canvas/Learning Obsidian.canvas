@@ -1,19 +1,21 @@
 {
 	"nodes":[
-		{"id":"5cd6f6e0c163c075","type":"file","file":"📆 Diario/2025-05-16.md","x":-540,"y":-340,"width":400,"height":400},
+		{"id":"5cd6f6e0c163c075","type":"file","file":"Diario/2025-05-16.md","x":-540,"y":-340,"width":400,"height":400},
 		{"id":"ae01507c4ee0d47f","type":"text","text":"Mi piacciono le note giornaliere, ma vorrei metterle tutte dentro una folder separata","x":60,"y":-340,"width":320,"height":120,"color":"1"},
-		{"id":"93643f8559b0593d","x":-80,"y":-60,"width":339,"height":143,"type":"file","file":"✏️ Idee editoriali.md"},
+		{"id":"93643f8559b0593d","type":"file","file":"✏️ Idee editoriali.md","x":-80,"y":-60,"width":339,"height":143},
 		{"id":"3be4c7b258a956ba","type":"text","text":"Sembra comodo poter avere un kanban per buttare giù le idee dei post","x":-80,"y":100,"width":250,"height":60,"color":"2"},
 		{"id":"18896c07d3214137","type":"text","text":"GIT è configurato per syncare tutti i contenuti su un repo privato. Cool","x":-440,"y":-520,"width":250,"height":100,"color":"2"},
-		{"id":"fc8c7d17ed7adcbb","x":112,"y":-179,"width":250,"height":60,"type":"text","text":"Si, è possibile e l'ho impostato su una folder chiamata \"Diario\""},
-		{"id":"b6ae9a250a59921c","x":-80,"y":-580,"width":250,"height":60,"type":"text","text":"Voglio capire come poter crittografare il contenuto di una cartella specifica"},
-		{"id":"1495dd9013f88aff","type":"text","text":"# **Imparo ad usare Obsidian**","x":-280,"y":-720,"width":440,"height":60,"color":"2"}
+		{"id":"fc8c7d17ed7adcbb","type":"text","text":"Si, è possibile e l'ho impostato su una folder chiamata \"Diario\"","x":112,"y":-179,"width":250,"height":60},
+		{"id":"b6ae9a250a59921c","type":"text","text":"Voglio capire come poter crittografare il contenuto di una cartella specifica","x":-80,"y":-580,"width":250,"height":60},
+		{"id":"1495dd9013f88aff","type":"text","text":"# **Imparo ad usare Obsidian**","x":-280,"y":-720,"width":440,"height":60,"color":"2"},
+		{"id":"387104fa6b30ec2d","type":"text","text":"**git-crypt su cartella sensibile**\n\n**Cosa fa**: cifra in automatico solo i file che specifichi (p.es. secure/) con la tua chiave GPG; su checkout locale (se hai la chiave) tutto resta in chiaro, su GitHub rimane cifrato.\n    \n**Workflow**:\n    - Qualsiasi file in folder/** lo modifichi normalmente in Obsidian;\n    - all’obsidian-git push, git-crypt “pulisce” (clean) cifrando i file;\n    - su clone o pull remoti rimangono cifrati;\n    - su fetch/checkout locale, se hai la chiave privata, vengono “smudge” decriptati on-the-fly.\n    \n- **Pro**: trasparente, mantieni estensione .md, nessuna modifica a Obsidian\n- **Contro**: devi avere e proteggere la chiave GPG locale, e condividerla solo su altri tuoi dispositivi.\n\n## Crea una chiave GPG\n```\nbrew install gnupg\nbrew install git-crypt\n```\n\n1. Alla richiesta:\n    - **Kind of key**: seleziona (1) RSA and RSA\n    - **Keysize**: 4096\n    - **Expiry**: scegli (es. 0 = mai scade) o imposta un termine\n    - **User ID**: inserisci il tuo nome e la tua email\n    - **Passphrase**: scegli una passphrase sicura\n\n```\ngpg --list-secret-keys --keyid-format LONG\ngit-crypt add-gpg-user --trusted [ID della chiave]\ngit-crypt status\n```\n\nNella root del repo, crea (o integra) il file .gitattributes:\n\n    diario/** filter=git-crypt diff=git-crypt\n\n```\ngit add .gitattributes\ngit commit -m \"Configura git-crypt per diario/\"\ngit push\n\n\n▶ git-crypt status\n    encrypted: Diario/2025-05-16.md\n    encrypted: Diario/2025-05-17.md\nnot encrypted: .git-crypt/.gitattributes\nnot encrypted: .git-crypt/keys/default/0/1B1C7A14E68A5E1CBD5A438A2880529AA3B07AB4.gpg\nnot encrypted: .gitattributes\nnot encrypted: .obsidian/app.json\netc...\n```\n\n\nA questo punto backuppo altrove la chiave gpg\n","x":440,"y":-780,"width":820,"height":860,"color":"5"}
 	],
 	"edges":[
 		{"id":"433b6dfc15f4e5dc","fromNode":"3be4c7b258a956ba","fromSide":"top","toNode":"93643f8559b0593d","toSide":"bottom"},
 		{"id":"44e199e9539c9a96","fromNode":"ae01507c4ee0d47f","fromSide":"left","toNode":"5cd6f6e0c163c075","toSide":"right"},
 		{"id":"f7083728bf047da3","fromNode":"ae01507c4ee0d47f","fromSide":"bottom","toNode":"fc8c7d17ed7adcbb","toSide":"top"},
 		{"id":"835b3af39e64fb11","fromNode":"18896c07d3214137","fromSide":"right","toNode":"b6ae9a250a59921c","toSide":"left"},
-		{"id":"a1f92df697e36c4c","fromNode":"b6ae9a250a59921c","fromSide":"bottom","toNode":"fc8c7d17ed7adcbb","toSide":"left"}
+		{"id":"a1f92df697e36c4c","fromNode":"b6ae9a250a59921c","fromSide":"bottom","toNode":"fc8c7d17ed7adcbb","toSide":"left"},
+		{"id":"5fe7a4833b1358d1","fromNode":"b6ae9a250a59921c","fromSide":"right","toNode":"387104fa6b30ec2d","toSide":"left"}
 	]
 }

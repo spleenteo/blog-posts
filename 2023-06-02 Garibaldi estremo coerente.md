@@ -6,18 +6,10 @@ tags:
   - storia
   - barbero
 ---
-# Highlights
-
-
 ---
 # Garibaldi, l'estremo coerente
-[
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5c49e5f9-0f0f-40d7-90dd-d89af1bb84b7_1200x600.jpeg)
-
-
-
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5c49e5f9-0f0f-40d7-90dd-d89af1bb84b7_1200x600.jpeg)
 
 Chiariamo subito una cosa: Il 2 giugno è la festa della Repubblica inerente al referendum del 1946 e nulla ci azzecca con Garibaldi. La data in cui scrivo il post è pura coincidenza. Mi sembra comunque adeguato approfondire questo personaggio — al quale sicuramente l'Italia deve molto — proprio in un giorno di festa nazionale.
 
@@ -45,13 +37,9 @@ Per dare un'idea di tale popolarità, si può rimandare all'evento del 1864 in c
 
 > Garibaldi was a leader of the Risorgimento, the movement for a united Italy on the Italian peninsula. He was considered a great general and, although unification had not been completed by 1864, he was regarded as one of the “fathers of the fatherland”.
 
-[
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf59052e-11c8-4048-af25-488c47079ccd_1200x875.jpeg)
 
-
-
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf59052e-11c8-4048-af25-488c47079ccd_1200x875.jpeg)
 
 In Inghilterra Garibaldi visita duchi e principesse ma non manca di andare ai sindacati e ai banchetti operai di cui si sente parte. La regina Vittoria, affatto contenta, dichiarò: "_mi vergogno di governare una nazione capace di simili follie"._ Dal diario della regina si legge anche "_onesto, disinteressato e coraggioso lo è di sicuro, ma è pur sempre un pericoloso rivoluzionario_".
 
@@ -87,15 +75,9 @@ Venne ferito in battaglia sei volte, due delle quali durante i quattro arrembagg
 
 È stato membro del parlamento in 5 paesi: Uruguay, Regno di Sardegna, Repubblica Romana, deputato del Regno di Italia e della Repubblica Francese.
 
-[
-
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1a08cf3-9883-4d52-aac7-2ad6bbf7539d_1024x1196.png)
 
-
-
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1a08cf3-9883-4d52-aac7-2ad6bbf7539d_1024x1196.png)
-
-Garibaldi e Anita - di Luigi De Servi (Lucca 1863-1945)
+*Garibaldi e Anita - di Luigi De Servi (Lucca 1863-1945)*
 
 La moglie Anita, rivoluzionaria brasiliana, morì nel 1849. Era conosciuta come "l'eroina dei due mondi" e rimase sempre affianco al marito nelle sue battaglie. [La sua scheda wikipedia](https://it.wikipedia.org/wiki/Anita_Garibaldi)
 
@@ -111,15 +93,8 @@ Ha combattuto a lungo in Sudamerica ed è importante valutare i fatti di quel pa
 
 Garibaldi ha sinceramente creduto che fossero guerre per la libertà e si è arruolato dove lo ritenne necessario. Era un esperto comandante di marina e con questo si guadagna fama e popolarità, ma mai lo fece per soldi. Fu comandante della flotta Uruguaiana contro gli argentini e al porto di Montevideo c'è una sua statua commemorativa.
 
-[
-
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F097973f3-926a-4bb8-8cf2-e3740d68e116_1024x768.jpeg)
-
-
-
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F097973f3-926a-4bb8-8cf2-e3740d68e116_1024x768.jpeg)
-
-La statua di Garibaldi a Montevideo Uruguay
+*La statua di Garibaldi a Montevideo Uruguay*
 
 Garibaldi è un corsaro, personaggio spesso confuso con il pirata: un corsaro è un comandante militare che ha l'autorità per attaccare navi di potenze nemiche, anche mercantili, per impadronirsi del loro carico, in un contesto di legalità in periodi di guerra.
 
@@ -181,15 +156,8 @@ Nel 60 quando sbarca a Marsala, il Re Vittorio parlando con l'ambasciatore franc
 Ma Cavour e il governo erano d'accordo sull'impresa dei mille? Cosa dicevano le carte di quei giorni convulsi? Dalle carte si scoprono cose sorprendenti di piani inesistenti e atti improvvisati. Nel caos sconvolgente dell'Italia, nella nascita del regno, nel subbuglio della annessioni, anche in Sicilia ci sono insurrezioni anti-borboniche, si viene a sapere che a Genova si stanno radunando volontari per andare in Sicilia comandati da Garibaldi.  
 Cavour si consulta col Re e non sanno che fare: gli impediamo di farlo? Ma come può un governo che ha preso la bandiera della liberazione d'Italia, arrestare i volontari? Non si può il governo cadrebbe. E allora stiamo a vedere cosa succede, magari viene fuori qualcosa di buono, magari qualcuno lo ammazza.
 
-[
-
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5b166363-9bd4-43af-b8cc-bd506407050d_1580x792.png)
-
-
-
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5b166363-9bd4-43af-b8cc-bd506407050d_1580x792.png)
-
-Camillo Paolo Filippo Giulio Benso, conte di Cavour
+*Camillo Paolo Filippo Giulio Benso, conte di Cavour*
 
 Non vogliono però nemmeno fare la figura di quelli che lo hanno fatto partire, danno quindi ordine alla marina di arrestarlo; l'ordine viene però dato solo _dopo_ che Garibaldi è salpato. Tra l'altro possono fermarlo solo se arriva in un porto del regno, ma in acque territoriali non devono toccarlo.
 
@@ -233,15 +201,9 @@ A questo punto, che fare con Garibaldi? Ne parlano moltissimo, non sanno se proc
 
 Il Re — di nuovo — prima della missione, aveva inviato lettere personali a Garibaldi in cui appoggiava l'azione; in un processo queste sarebbe saltate fuori e lo scandalo non sarebbe più stato gestibile. Il governo decise quindi per una amnistia, colpo si spugna, Garibaldi liberato.
 
-[
-
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fccd2a533-e152-4f03-a397-d6af75ca2b0c_1992x1118.png)
 
-
-
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fccd2a533-e152-4f03-a397-d6af75ca2b0c_1992x1118.png)
-
-L'incontro tra Giuseppe Garibaldi e Vittorio Emanuele II, a Teano (Caserta): affresco del 1886 realizzato nella sala del Palazzo Pubblico di Siena da Pietro Aldi.
+*L'incontro tra Giuseppe Garibaldi e Vittorio Emanuele II, a Teano (Caserta): affresco del 1886 realizzato nella sala del Palazzo Pubblico di Siena da Pietro Aldi.*
 
 Nel 1866 Garibaldi partecipa a Custoza a quella che fu la battaglia di inizio della **terza guerra di indipendenza.** Cialdini fu uno dei principali responsabili della catastrofe di Custoza. Al contrario, Garibaldi fu l'unico a vincere una battaglia di Bezzecca e mentre si organizzava per la conquista di Trento venne fermato dalla notizia dell'ormai prossimo armistizio tra Italia e Austria, giunta quel giorno assieme all'ordine del generale La Marmora di sgomberare il Trentino entro 24 ore. Allora Garibaldi impugnò la penna e, in risposta, scrisse la famosa frase: "_Ho ricevuto il dispaccio n. 1073. Obbedisco."_
 

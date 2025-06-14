@@ -66,6 +66,8 @@ Succede però di poter mettere in rapporto cose molto simili tra loro e si potre
 
 ### A=A
 
+^d2a14a
+
 Giusto per ripetersi: dovrebbe risultare chiaro a questo punto che
 
 > _fissare un interesse o fissare un ambito è prima di tutto un atto di differenziazione. Le differenze mantengono relazioni d’ambito._

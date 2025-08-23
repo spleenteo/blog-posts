@@ -13,7 +13,7 @@ _E quella sensazione, quell’esperienza vissuta, tanto difficile da trasmettere
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F08c6689c-9845-4fc3-81bb-2c1dee26c0a2_2500x1222.jpeg)
 
 
-In questo periodo mi è capitato di leggere alcuni scritti di Noam #Chomsky sul tema del linguaggio. Sempre su Chomsky, ho visto [un’interessante documentario realizzato da Michel Gondry](https://www.youtube.com/watch?v=cv66xFD7s7g&t=499s), intitolato “_Is the man who is tall, happy?_” in cui ho riconosciuto dei concetti presenti in alcuni studi (non correlati) che sto leggendo. Questa coincidenza mi ha incuriosito ancor più di quanto non lo fossi e mi ha spinto ad approfondire l’argomento.
+In questo periodo mi è capitato di leggere alcuni scritti di Noam [[Chomsky]] sul tema del linguaggio. Sempre su Chomsky, ho visto [un’interessante documentario realizzato da Michel Gondry](https://www.youtube.com/watch?v=cv66xFD7s7g&t=499s), intitolato “_Is the man who is tall, happy?_” in cui ho riconosciuto dei concetti presenti in alcuni studi (non correlati) che sto leggendo. Questa coincidenza mi ha incuriosito ancor più di quanto non lo fossi e mi ha spinto ad approfondire l’argomento.
 
 La lingua — sia scritta che parlata — è certamente un mezzo utilissimo per tradurre i pensieri in una forma condivisibile con altri. Il linguaggio però, manifesta velocemente i suoi limiti quando si tratta di descrivere certi tipi di esperienza. Come si descrive l’amore? Come si può raccontare l’esperienza di un figlio? Come si può far capire ad un altro la sofferenza che si prova? O la bellezza? Come si racconta un colore a chi non può vedere?
 
